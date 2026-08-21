@@ -52,6 +52,8 @@ class Entry(BaseModel):
             "URLScan.io",
             "VirusTotal",
             "Wiz",
+            "Checkmarx One",
+            "SecurityScorecard"
         ]
     ]
     date_added: date
