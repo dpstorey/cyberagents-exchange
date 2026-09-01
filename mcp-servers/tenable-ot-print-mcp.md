@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-01
 name: "Tenable One OT Exposure Management Report Generator"
 author: "Dominic Storey"
 github_url: "https://github.com/dpstorey/EM-PRINT"
