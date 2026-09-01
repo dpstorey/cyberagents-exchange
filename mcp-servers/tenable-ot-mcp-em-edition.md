@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-01
 name: "Tenable OT MCP Server (Enterprise Manager Edition)"
 author: "John Walley (OneClearPath, Incorporated)"
 github_url: "https://github.com/dpstorey/EM-MCP"
