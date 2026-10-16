@@ -11,7 +11,7 @@ date_added: 2026-10-12
 contribution_agreement_date: 2026-10-12T18:26:15Z
 domains: ["ot-iot-security", "governance-risk-compliance"]
 compatible_platforms: ["LibreChat"]
-invocation: "/t1ote-iec62443-onboarding"
+invocation: "Ask the agent to onboard a Tenable OT site to IEC 62443"
 ---
 
 An agent skill that turns an IEC 62443 zones-and-conduits design into Tenable OT objects. It asks guided questions (or reads a spreadsheet), validates the model, shows a numbered plan, and changes nothing until the user approves it. Tested with LibreChat and Qwen.
